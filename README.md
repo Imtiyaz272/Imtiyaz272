@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:  </h3>
 <span>
-  <a href="[www.linkedin.com/in/syeda-imtiyaz-924060254](https://www.linkedin.com/in/syeda-imtiyaz-924060254/)" target="blank">
+  <a href="https://www.linkedin.com/in/syeda-imtiyaz-924060254" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </span>
