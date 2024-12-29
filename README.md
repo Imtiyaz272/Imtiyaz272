@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Imtiyaz</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 💬 Ask me about **Angular, Nodejs, MongoDB**
+- 💬 Ask me about **Angular, Nodejs, MongoDB, React**
 
 - 📫 How to reach me **syedaimtiyaz19@gmail.com**
 
