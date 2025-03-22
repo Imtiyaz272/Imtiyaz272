@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syeda Imtiyaz</h1>
-<h3 align="center">Full stack web developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 💬 Ask me about **Angular, Nodejs, MongoDB, React**
 
