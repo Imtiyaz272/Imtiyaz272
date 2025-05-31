@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Imtiyaz</h1>
 <h3 align="center">Software Developer</h3>
 
-- 💬 **Angular, Nodejs, MongoDB, React, Django**
+- 💬 **React, Nodejs, MongoDB, Angular, Django**
 
 - 📫 How to reach me **syedaimtiyaz19@gmail.com**
 
