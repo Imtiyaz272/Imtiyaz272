@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syeda Imtiyaz</h1>
+<h1 align="center">Hi 👋, I'm Imtiyaz Syeda</h1>
 <h3 align="center">Software Developer</h3>
 
 - 💬 **React, Nodejs, MongoDB, Angular, Django**
